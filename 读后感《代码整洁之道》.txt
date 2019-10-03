@@ -40,3 +40,29 @@ expected在前，actual在后
 K4注释
 注释越少越好，用程序去说明
 编程时，类名，函数名，变量名要能说明清楚干什么用的，这样就可以不再使用额外的注释
+
+K5控件与布局
+布局元素
+Grid
+StackPanel
+Canvas
+DockPanel（泊靠面板，可拖曳分割栏）
+WrapPanel（折叠面板，可自动换行）
+
+布局方法
+1, Height+Width+Margin
+2, Grid 推荐
+
+*表示比例值和自动填充
+Auto表示内容多大，格子多大
+
+
+K6Binding
+MVC（Model View Controler）,MVP（Model View Presenter）
+事件驱动，消息驱动，UI驱动：数据处于程序的被动地位
+Data Binding：数据回归程序的核心
+3层结构：储存，处理（逻辑），表示（展示）
+城市做类比：仓储区，加工区，港口区
+Binding（绑定，关联），绑定的一端是UI的控件，另一端是逻辑层的对象
+Invoke？
+
