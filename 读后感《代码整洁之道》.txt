@@ -1,68 +1,42 @@
 20190829
-Ðò
+åº
 
-K1Õû½à´úÂë "ÈÃÓªµØ±ÈÄãÀ´Ê±¸ü¸É¾»"
-¿ìËÙ¿ª·¢-´úÂëÖÊÁ¿µÍÏÂ-ÎÞ·¨Î¬»¤-¿åËú
-ÀÕ²¼ÀÊ·¨Ôò£ºLater equals never
-Å¤ÎÆ²ñ
-Õû½àµÄ´úÂë²»Òþ²ØÉè¼ÆÕßµÄÒâÍ¼
-¶ÁºÍÐ´»¨·ÑµÄÊ±¼ä±ÈÀý³¬¹ý10:1
-Í¯×Ó¾ü¾ü¹æ£ºÈÃÓªµØ±ÈÄãÀ´Ê±¸ü¸É¾»
+K1æ•´æ´ä»£ç  "è®©è¥åœ°æ¯”ä½ æ¥æ—¶æ›´å¹²å‡€"
+å¿«é€Ÿå¼€å‘-ä»£ç è´¨é‡ä½Žä¸‹-æ— æ³•ç»´æŠ¤-åž®å¡Œ
+å‹’å¸ƒæœ—æ³•åˆ™ï¼šLater equals never
+æ‰­çº¹æŸ´
+æ•´æ´çš„ä»£ç ä¸éšè—è®¾è®¡è€…çš„æ„å›¾
+è¯»å’Œå†™èŠ±è´¹çš„æ—¶é—´æ¯”ä¾‹è¶…è¿‡10:1
+ç«¥å­å†›å†›è§„ï¼šè®©è¥åœ°æ¯”ä½ æ¥æ—¶æ›´å¹²å‡€
 
-K2ÃüÃû "¾«È·£¬¶Ì"
-Ò»µ©·¢ÏÖÓÐ¸üºÃµÄÃû×Ö£¬¾Í»»µô¾ÉµÄ
-ÓÐÒâÒåµÄÃüÃû:
+K2å‘½å "ç²¾ç¡®ï¼ŒçŸ­"
+ä¸€æ—¦å‘çŽ°æœ‰æ›´å¥½çš„åå­—ï¼Œå°±æ¢æŽ‰æ—§çš„
+æœ‰æ„ä¹‰çš„å‘½å:
 theList --> gameBoard
-4 --> FLAGGED //Ò»¸ö×´Ì¬£¬4ÊÇÒ»¸öÄ§ÊõÊý£¬Òª±ÜÃâ
-Í¬Òå´Ê£ºinfo£¬data£»a£¬an£¬the
-Ç°×ºÊÇ²»Èë·¨ÑÛµÄ·ÏÁÏ£¬¾É´úÂëµÄ±êÖ¾Îï
-×¨Òµ³ÌÐòÔ±£ºÃ÷È·ÊÇÍõµÀ
-ÀàÃû£ºÃû´Ê
-·½·¨Ãû£º¶¯´Ê¡£±ê×¼Ç°×ºÓÐ£ºis£¬get£¬set
-Éè¼ÆÊ¦£º·ÖÀë ½â¾ö·½°¸ÁìÓò ºÍ ÎÊÌâÁìÓò
-Ìá¹©Óï¾³£ºaddrFirstName, addrLastName, addrState£¬¸üºÃµÄ·½·¨ÊÇ´´½¨AddressÀà
-¶ÌÀàÃû£¬³¤·½·¨Ãû
-¾«È·ÊÇÃüÃûµÄÒªµã¡£Èç¹ûÓÐÆçÒå£¬¾Í¼Ó³¤¡£Ê×ÏÈÒª¾«È·£¬Æä´ÎÒª¾¡Á¿¶Ì¡£
+4 --> FLAGGED //ä¸€ä¸ªçŠ¶æ€ï¼Œ4æ˜¯ä¸€ä¸ªé­”æœ¯æ•°ï¼Œè¦é¿å…
+åŒä¹‰è¯ï¼šinfoï¼Œdataï¼›aï¼Œanï¼Œthe
+å‰ç¼€æ˜¯ä¸å…¥æ³•çœ¼çš„åºŸæ–™ï¼Œæ—§ä»£ç çš„æ ‡å¿—ç‰©
+ä¸“ä¸šç¨‹åºå‘˜ï¼šæ˜Žç¡®æ˜¯çŽ‹é“
+ç±»åï¼šåè¯
+æ–¹æ³•åï¼šåŠ¨è¯ã€‚æ ‡å‡†å‰ç¼€æœ‰ï¼šisï¼Œgetï¼Œset
+è®¾è®¡å¸ˆï¼šåˆ†ç¦» è§£å†³æ–¹æ¡ˆé¢†åŸŸ å’Œ é—®é¢˜é¢†åŸŸ
+æä¾›è¯­å¢ƒï¼šaddrFirstName, addrLastName, addrStateï¼Œæ›´å¥½çš„æ–¹æ³•æ˜¯åˆ›å»ºAddressç±»
+çŸ­ç±»åï¼Œé•¿æ–¹æ³•å
+ç²¾ç¡®æ˜¯å‘½åçš„è¦ç‚¹ã€‚å¦‚æžœæœ‰æ­§ä¹‰ï¼Œå°±åŠ é•¿ã€‚é¦–å…ˆè¦ç²¾ç¡®ï¼Œå…¶æ¬¡è¦å°½é‡çŸ­ã€‚
 
-K3º¯Êý
-ÔçÄê£º³ÌÐò£¬×Ó³ÌÐò
-ºóÀ´£º³ÌÐò£¬×Ó³ÌÐò£¬º¯Êý£¨Fortran£©
-ÏÖÔÚ£ºº¯Êý
-º¯Êý¾Í¸ÃÐ¡
-ÍÆ¼ö³¤¶ÈÊÇ²»³¬¹ý5ÐÐ
-²ÎÊý¸öÊýÔ½ÉÙÔ½ºÃ£¬²»Òª³¬¹ý3
-ÊÂ¼þ£º¸Ä±äÏµÍ³×´Ì¬£¬Ã»ÓÐ·µ»ØÖµ
-º¯Êý£º²ÎÊý½ø£¬²ÎÊý³ö£¬º¯ÊýÌå¾ÍÊÇ¸Ä±äÕâ¸öÖµ
-expectedÔÚÇ°£¬actualÔÚºó
-º¯ÊýÒªÃ´×öÊ²Ã´ÊÂ£¨set£©£¬ÒªÃ´»Ø´ðÊ²Ã´ÊÂ£¨get£©
-³ÌÐòÐèÒª²»¶ÏµÄ´òÄ¥
+K3å‡½æ•°
+æ—©å¹´ï¼šç¨‹åºï¼Œå­ç¨‹åº
+åŽæ¥ï¼šç¨‹åºï¼Œå­ç¨‹åºï¼Œå‡½æ•°ï¼ˆFortranï¼‰
+çŽ°åœ¨ï¼šå‡½æ•°
+å‡½æ•°å°±è¯¥å°
+æŽ¨èé•¿åº¦æ˜¯ä¸è¶…è¿‡5è¡Œ
+å‚æ•°ä¸ªæ•°è¶Šå°‘è¶Šå¥½ï¼Œä¸è¦è¶…è¿‡3
+äº‹ä»¶ï¼šæ”¹å˜ç³»ç»ŸçŠ¶æ€ï¼Œæ²¡æœ‰è¿”å›žå€¼
+å‡½æ•°ï¼šå‚æ•°è¿›ï¼Œå‚æ•°å‡ºï¼Œå‡½æ•°ä½“å°±æ˜¯æ”¹å˜è¿™ä¸ªå€¼
+expectedåœ¨å‰ï¼Œactualåœ¨åŽ
+å‡½æ•°è¦ä¹ˆåšä»€ä¹ˆäº‹ï¼ˆsetï¼‰ï¼Œè¦ä¹ˆå›žç­”ä»€ä¹ˆäº‹ï¼ˆgetï¼‰
+ç¨‹åºéœ€è¦ä¸æ–­çš„æ‰“ç£¨
 
-K4×¢ÊÍ
-×¢ÊÍÔ½ÉÙÔ½ºÃ£¬ÓÃ³ÌÐòÈ¥ËµÃ÷
-±à³ÌÊ±£¬ÀàÃû£¬º¯ÊýÃû£¬±äÁ¿ÃûÒªÄÜËµÃ÷Çå³þ¸ÉÊ²Ã´ÓÃµÄ£¬ÕâÑù¾Í¿ÉÒÔ²»ÔÙÊ¹ÓÃ¶îÍâµÄ×¢ÊÍ
-
-K5¿Ø¼þÓë²¼¾Ö
-²¼¾ÖÔªËØ
-Grid
-StackPanel
-Canvas
-DockPanel£¨²´¿¿Ãæ°å£¬¿ÉÍÏÒ··Ö¸îÀ¸£©
-WrapPanel£¨ÕÛµþÃæ°å£¬¿É×Ô¶¯»»ÐÐ£©
-
-²¼¾Ö·½·¨
-1, Height+Width+Margin
-2, Grid ÍÆ¼ö
-
-*±íÊ¾±ÈÀýÖµºÍ×Ô¶¯Ìî³ä
-Auto±íÊ¾ÄÚÈÝ¶à´ó£¬¸ñ×Ó¶à´ó
-
-
-K6Binding
-MVC£¨Model View Controler£©,MVP£¨Model View Presenter£©
-ÊÂ¼þÇý¶¯£¬ÏûÏ¢Çý¶¯£¬UIÇý¶¯£ºÊý¾Ý´¦ÓÚ³ÌÐòµÄ±»¶¯µØÎ»
-Data Binding£ºÊý¾Ý»Ø¹é³ÌÐòµÄºËÐÄ
-3²ã½á¹¹£º´¢´æ£¬´¦Àí£¨Âß¼­£©£¬±íÊ¾£¨Õ¹Ê¾£©
-³ÇÊÐ×öÀà±È£º²Ö´¢Çø£¬¼Ó¹¤Çø£¬¸Û¿ÚÇø
-Binding£¨°ó¶¨£¬¹ØÁª£©£¬°ó¶¨µÄÒ»¶ËÊÇUIµÄ¿Ø¼þ£¬ÁíÒ»¶ËÊÇÂß¼­²ãµÄ¶ÔÏó
-Invoke£¿
-
+K4æ³¨é‡Š
+æ³¨é‡Šè¶Šå°‘è¶Šå¥½ï¼Œç”¨ç¨‹åºåŽ»è¯´æ˜Ž
+ç¼–ç¨‹æ—¶ï¼Œç±»åï¼Œå‡½æ•°åï¼Œå˜é‡åè¦èƒ½è¯´æ˜Žæ¸…æ¥šå¹²ä»€ä¹ˆç”¨çš„ï¼Œè¿™æ ·å°±å¯ä»¥ä¸å†ä½¿ç”¨é¢å¤–çš„æ³¨é‡Š
